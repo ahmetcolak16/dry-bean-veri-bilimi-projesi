@@ -1,0 +1,2 @@
+﻿Method,Baseline_Macro_F1_Mean,Tuned_Macro_F1_Mean,Mean_Delta_Macro_F1,Median_Delta_Macro_F1,Std_Delta_Macro_F1,Positive_Fold_Count,Total_Fold_Count,Positive_Ratio,Mean_Selected_Threshold,Std_Selected_Threshold,Baseline_Balanced_Accuracy_Mean,Tuned_Balanced_Accuracy_Mean,Mean_Delta_Balanced_Accuracy
+SVC RBF + QuantileTransformer + threshold tuning,0.925699281640168,0.9255072870133256,-0.0001919946268423356,0.0,0.0029468195234543205,11,25,0.44,-0.01999999999999991,0.11273124382057237,0.9237599219137729,0.9237954136425678,3.549172879510287e-05
